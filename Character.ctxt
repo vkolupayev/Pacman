@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ atEdge()
+comment3.params=direction
+comment3.target=boolean\ active(java.lang.String)
+comment4.params=form
+comment4.target=boolean\ interact(java.lang.Class)
+comment5.params=form
+comment5.target=void\ eat(java.lang.Class)
+numComments=6
